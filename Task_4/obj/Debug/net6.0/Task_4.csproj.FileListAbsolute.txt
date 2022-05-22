@@ -1,0 +1,5 @@
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_4/Task_4/obj/Debug/net6.0/Task_4.csproj.AssemblyReference.cache
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_4/Task_4/obj/Debug/net6.0/Task_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_4/Task_4/obj/Debug/net6.0/Task_4.AssemblyInfoInputs.cache
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_4/Task_4/obj/Debug/net6.0/Task_4.AssemblyInfo.cs
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_4/Task_4/obj/Debug/net6.0/Task_4.csproj.CoreCompileInputs.cache
